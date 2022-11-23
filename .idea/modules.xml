@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Leetcode problems.iml" filepath="$PROJECT_DIR$/Leetcode problems.iml" />
       <module fileurl="file://$PROJECT_DIR$/addTwoNumbers/addTwoNumbers.iml" filepath="$PROJECT_DIR$/addTwoNumbers/addTwoNumbers.iml" />
+      <module fileurl="file://$PROJECT_DIR$/binarySearch/binarySearch.iml" filepath="$PROJECT_DIR$/binarySearch/binarySearch.iml" />
       <module fileurl="file://$PROJECT_DIR$/reverseLinkedList/reverseLinkedList.iml" filepath="$PROJECT_DIR$/reverseLinkedList/reverseLinkedList.iml" />
       <module fileurl="file://$PROJECT_DIR$/twoSum/twoSum.iml" filepath="$PROJECT_DIR$/twoSum/twoSum.iml" />
     </modules>
